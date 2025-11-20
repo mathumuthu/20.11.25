@@ -35,7 +35,7 @@ span{
 
 /*=== topbar ===*/
 .topbar {
-  background:whitesmoke;
+  background:red;
   position: sticky;
   top: 0;
   z-index: 1000;  
@@ -49,7 +49,7 @@ span{
   justify-content: space-between;
   align-items: center;
   padding: 0.75rem 1.5rem;
- /* background:;  */
+  background:purple;
 }
 .header .logo {
   display: flex;
@@ -125,7 +125,7 @@ span{
 /*=== navbar ===*/
 .navBar {
   display: block;
-  background: #233042;
+  background: purple;
   border-top: 1px solid white;
   padding: 10px;
 }
@@ -158,7 +158,7 @@ span{
   color:black;
 }
 .linkRight li.sign button {
-  background:  rgba(0,255,255,0.4);
+  background: red;
   padding: 1rem 1.2rem;
   font-size: 0.9rem;
   color: white;
@@ -220,7 +220,7 @@ span{
 .hamburger {
   display: none;
   font-size:2rem;
-  color:#233042;
+  color:white;
   background: none;
   border: none;
   cursor: pointer;
@@ -328,6 +328,8 @@ span{
   .hamburger{
     display: block;
   }
+}
+
 
 
 
@@ -337,7 +339,7 @@ span{
 
 
   
-}
+
 footer {
   background: #0d1724;
   color: #ffffff;
@@ -428,6 +430,22 @@ footer {
   transform:translateY(-6px) scale(1.1);
   box-shadow:0 8px 20px rgba(0,255,255,0.4);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

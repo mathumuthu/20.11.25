@@ -10,3 +10,4 @@ hamburger.addEventListener("click", () => {
 
 
 
+console.log("AeroSpace — Home Loaded");
